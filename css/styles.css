@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(221, 224, 7);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #0c0707;
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+ img{
+    width: 6em;
+    height: 6em;
+}
